@@ -3,7 +3,7 @@
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrendoKildereSilva&theme=2077" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendokilderesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendokilderesilva&theme=tokyonight&layout=compact&custom_title=🤖Technologies&langs_count=9" height="200">
 </div>
 
 
