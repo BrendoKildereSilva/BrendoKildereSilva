@@ -1,5 +1,5 @@
 ## Hi, I'am Brendo Kildere 👋
-**`Web Desing`** **`Fullstack Developer`** **`3d website developer`**
+**`Web Desing`** **`Fullstack Developer`** **`3D & Motion Website Developer`**
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrendoKildereSilva&theme=2077" height="200">
