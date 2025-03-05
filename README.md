@@ -1,5 +1,5 @@
 ## Hi, I'am Brendo Kildere 👋
-**`Web Desing & Fullstack Developer`**
+**`Web Desing`** **`Fullstack Developer`** **`3d website developer`**
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrendoKildereSilva&theme=2077" height="200">
@@ -39,6 +39,57 @@
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
   />
+
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+  />
+
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+  />
+
+  
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+  />
+  <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+          
+          
+          
+      
+
           
 
 
