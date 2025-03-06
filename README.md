@@ -1,4 +1,4 @@
-## Hi, I'am Brendo Kildere 👋
+## Hi, I'am Brendo Kildere 👋 <a style="display:flex" href="https://brendokildere.com" target="blank">www.brendokildere.com</a>
 **`Web Desing`** **`Fullstack Developer`** **`3D & Motion Website Developer`**
 
 <div>
@@ -85,6 +85,7 @@
     style="padding-right: 20px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
+
           
           
           
