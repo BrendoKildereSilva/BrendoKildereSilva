@@ -1,4 +1,5 @@
 ## Hi, I'am Brendo Kildere 👋 <a href="https://brendokildere.com" target="_blank">www.brendokildere.com</a>  
+[www.brendokildere.com](https://brendokildere.com)
 **`Web Desing`** **`Fullstack Developer`** **`3D & Motion Website Developer`**
 
 <div>
