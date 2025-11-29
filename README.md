@@ -25,7 +25,14 @@
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
   />
-  
+
+   <img 
+    align="left"
+    width="30px"
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+  />
+
   <img 
     align="left"
     width="30px"
